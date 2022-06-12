@@ -1,0 +1,34 @@
+/*
+ Theme Name:   Sydney Child
+ Theme URI:    https://github.com/holyhope
+ Description:  Sydney Child Theme
+ Author:       Pierre PÉRONNET
+ Author URI:   https://github.com/holyhope
+ Template:     sydney
+ Version:      1.0.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  sydneychild
+*/
+
+.site-footer {
+    display: none;
+}
+
+#gallery-1 .gallery-item {
+	margin-right: 10px;
+}
+
+body #mainnav ul li a {
+	font-size: 19px;
+}
+
+body #mainnav ul li ul a  {
+	font-size: 14px;
+}
+
+body .site-description {
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
