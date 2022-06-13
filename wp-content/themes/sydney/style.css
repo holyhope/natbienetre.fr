@@ -2079,6 +2079,7 @@ Widgets
 	height: 0;
 }
 .widget-area .widget-title {
+	clear: both;
 	font-size: 22px;
 	line-height: normal;
 	padding-bottom: 24px;
