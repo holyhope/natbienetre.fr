@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires pour Nat&#039;Bien-Être	</title>
+	<atom:link href="http://edit.natbienetre.fr/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Nathalie Noël</description>
+	<lastBuildDate>Sun, 06 Mar 2022 12:05:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		Commentaires sur Cuisson &#8220;Vapeur Douce&#8221; par Magazine Omnicuiseur		</title>
+		<link>/recette/cuisson-vapeur-douce-mode-demploi/#comment-12</link>
+
+		<dc:creator><![CDATA[Magazine Omnicuiseur]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2014 10:48:45 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1244#comment-12</guid>
+
+					<description><![CDATA[Bonjour Nathalie,
+
+Merci d&#039;avoir cit l&#039;Omnicuiseur qui sert en effet  la cuisson infrieure  C.
+
+Pour info, le magazine Omnicuiseur a ouvert ses portes r100cemment pour parler cuisine sant  et donner des recettes  cuisson vapeur douce. N&#039;hsitez pas  venir le consulter : http://www.magazine-omnicuiseur.fr/
+
+A bienttttt !]]></description>
+			<content:encoded><![CDATA[<p>Bonjour Nathalie,</p>
+<p>Merci d&#8217;avoir cit l&#8217;Omnicuiseur qui sert en effet  la cuisson infrieure  C.</p>
+<p>Pour info, le magazine Omnicuiseur a ouvert ses portes r100cemment pour parler cuisine sant  et donner des recettes  cuisson vapeur douce. N&#8217;hsitez pas  venir le consulter : <a href="http://www.magazine-omnicuiseur.fr/" rel="nofollow ugc">http://www.magazine-omnicuiseur.fr/</a></p>
+<p>A bienttttt !</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Commentaires sur La Cerise ! par THIBAUD Catherine		</title>
+		<link>/2014/05/31/la-cerise-fruit-sante/#comment-11</link>
+
+		<dc:creator><![CDATA[THIBAUD Catherine]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2014 19:37:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1057#comment-11</guid>
+
+					<description><![CDATA[Merci  pour cette  lecture bien instructive]]></description>
+			<content:encoded><![CDATA[<p>Merci  pour cette  lecture bien instructive</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
