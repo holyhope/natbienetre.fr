@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hiver – Nat'Bien-Être</title>
+	<atom:link href="http://edit.natbienetre.fr/regime_alimentaire/hiver/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Nathalie Noël</description>
+	<lastBuildDate>Fri, 11 Feb 2022 09:54:25 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://static.natbienetre.fr/2022/03/cropped-logo-sonat-03.png</url>
+	<title>hiver – Nat'Bien-Être</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Salade croquante d&#8217;hiver</title>
+		<link>/recette/salade-croquante-dhiver/</link>
+		
+		<dc:creator><![CDATA[Nathalie Noël]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2019 20:50:19 +0000</pubDate>
+				<guid isPermaLink="false">http://edit.natbienetre.fr/?post_type=recipe&#038;p=3493</guid>
+
+					<description><![CDATA[<p>Le fenouil est connu pour ses qualités digestives. Il se révèle être [&#8230;]</p>
+The post <a href="/recette/salade-croquante-dhiver/">Salade croquante d’hiver</a> first appeared on <a href="/">Nat'Bien-Être</a>.]]></description>
+										<content:encoded><![CDATA[<p>Le fenouil est connu pour ses qualités digestives. Il se révèle être un véritable aliment santé.</p>
+
+
+
+<p class="has-text-align-center"><a href="/2019/09/02/cru-ou-cuit-vive-le-fenouil/" target="_blank" rel="noopener noreferrer"><em>Lire plus d&#8217;informations sur les bien-faits du fenouil</em></a></p>
+
+
+
+<h2 class="has-vivid-cyan-blue-color has-text-color">Ingrédients</h2>
+
+
+
+<p>Pour 2 personnes :</p>
+
+
+
+<ul><li>½ bulbe de fenouil</li><li>1 quartier de chou blanc</li><li>1 avocat</li><li>2 à 3 pinces de crabe</li><li>½ bouquet de coriandre</li><li>1 c.c. de moutarde douce</li><li>1 quartier de citron</li><li>2 c.s. d’huile de noix</li><li>1 pincée de sel</li></ul>
+
+
+
+<h2 class="has-vivid-green-cyan-color has-text-color">Préparation</h2>
+
+
+
+<ol><li>Émincer le fenouil et le chou.</li><li>Mélanger à l’huile, la moutarde et le sel.</li><li>Ciseler la coriandre et l’incorporer au mélange.</li><li>Décortiquer les pinces de crabe et placer les sur le dessus avec l’avocat en gros dés.</li><li>Presser le quartier de citron sur l’avocat et le crabe.</li></ol>
+
+
+
+<p class="has-text-align-center has-vivid-green-cyan-color has-text-color has-medium-font-size">Bonne dégustation</p>The post <a href="/recette/salade-croquante-dhiver/">Salade croquante d’hiver</a> first appeared on <a href="/">Nat'Bien-Être</a>.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
