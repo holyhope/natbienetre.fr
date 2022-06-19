@@ -32,3 +32,71 @@ body .site-description {
     font-family: 'Dancing Script', cursive;
     font-size: 22px;
 }
+
+
+@media screen and (max-width:736px) {
+ .mobile-alignright {
+  float: right;
+	margin-left: 1.5em;
+	margin-right: 0;
+ }
+ .mobile-alignleft {
+  float: left;
+	margin-left: 0;
+	margin-right: 1.5em;
+ }
+ .mobile-aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+ }
+}
+
+#secondary .grw-slider-header-inner {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+/* Sydney */
+body .entry-content > * {
+  margin-bottom: inherit;
+}
+
+/* WPForms */
+#secondary div.wpforms-container-full.inline-fields .wpforms-form .wpforms-field-container {
+	float: none;
+	width: auto;
+	display: block;
+}
+
+#secondary div.wpforms-container-full.inline-fields .wpforms-form .wpforms-submit-container {
+	display: block;
+	float: none;
+	width: auto;
+}
+
+body .widget-area .widget-title {
+	clear: both;
+}
+
+#secondary .widget-title {
+	padding-top: 20px;
+}
+
+body .widget-area .widget {
+	margin-bottom: 0;
+}
+
+/* Fix block-library 5.9.3 */
+
+p.has-text-color:not(.has-link-color) a {
+ color:inherit
+}
+
+.preloader {
+	display: none;
+}
+
+/* curator.io */
+body .crt-widget.crt-widget-branded .crt-logo {
+	display: none;
+}
